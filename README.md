@@ -41,5 +41,10 @@ The Open WebUI column quotes Open WebUI's own pages. Its self-hosting, offline d
 - [Best Open WebUI alternatives](https://openwebuialternative.com/best-open-webui-alternatives)
 - [Open WebUI for teams](https://openwebuialternative.com/open-webui-for-teams)
 - [Self-hosting an Open WebUI alternative](https://openwebuialternative.com/self-hosting)
+- [Open WebUI vs Dify](https://openwebuialternative.com/open-web-ui-vs-dify)
+- [Is Open WebUI safe to self-host?](https://openwebuialternative.com/is-open-web-ui-safe)
+- [Open WebUI for enterprise](https://openwebuialternative.com/open-web-ui-for-enterprise)
+
+The newer comparisons cover [Open WebUI vs Dify](https://openwebuialternative.com/open-web-ui-vs-dify), [whether Open WebUI is safe to self-host](https://openwebuialternative.com/is-open-web-ui-safe), and [what enterprises need beyond it](https://openwebuialternative.com/open-web-ui-for-enterprise).
 
 Start with one job and let an agent run it: [Try Kortix](https://kortix.com).
