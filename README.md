@@ -47,4 +47,12 @@ The Open WebUI column quotes Open WebUI's own pages. Its self-hosting, offline d
 
 The newer comparisons cover [Open WebUI vs Dify](https://openwebuialternative.com/open-web-ui-vs-dify), [whether Open WebUI is safe to self-host](https://openwebuialternative.com/is-open-web-ui-safe), and [what enterprises need beyond it](https://openwebuialternative.com/open-web-ui-for-enterprise).
 
+## More comparisons and guides
+
+The field around Open WebUI is wider than one rival, and each of these pages takes one tool at a time. [Open WebUI vs Jan](https://openwebuialternative.com/open-web-ui-vs-jan) covers the desktop app that runs models offline on one machine, and [Open WebUI vs Msty](https://openwebuialternative.com/open-web-ui-vs-msty) covers the privacy-first desktop app that runs local and online models. [Open WebUI vs AnythingLLM](https://openwebuialternative.com/open-web-ui-vs-anythingllm) weighs a local-first document and agent app, and [Open WebUI vs LibreChat](https://openwebuialternative.com/open-web-ui-vs-librechat) compares a self-hosted multi-model chat platform configured through a YAML file and an admin panel. On the model side, [Open WebUI vs Ollama](https://openwebuialternative.com/open-web-ui-vs-ollama) and [Open WebUI vs LM Studio](https://openwebuialternative.com/open-web-ui-vs-lm-studio) explain where the model runner ends and the chat front end starts.
+
+- Cost and licensing: [Open WebUI pricing](https://openwebuialternative.com/open-web-ui-pricing) and [is Open WebUI free](https://openwebuialternative.com/is-open-web-ui-free) both start from what Open WebUI's own enterprise page says about the free tier and the paid white-label path.
+- Running it: [how to install Open WebUI](https://openwebuialternative.com/how-to-install-open-web-ui) collects the Docker and pip commands, and [Open WebUI RAG](https://openwebuialternative.com/open-web-ui-rag) walks through knowledge bases and document retrieval.
+- Leaving it: [migrate from Open WebUI](https://openwebuialternative.com/migrate-from-open-web-ui) lays out the move in order, models first, then configuration, then the work.
+
 Start with one job and let an agent run it: [Try Kortix](https://kortix.com).
